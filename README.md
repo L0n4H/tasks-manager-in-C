@@ -1,5 +1,9 @@
 # tasks-manager-in-C
 
+## Le projet
+
+Ceci est un projet étudiant (non universitaire) de deux camarades développeurs qui souhaitent développer leurs compétences en C (mais aussi d'autres compétences annexes expliquées plus loin). Le principe est simple : faire un task manager (une sorte de todo list) en C, sans affichage graphique.
+
 ## Developer Guidelines: Git & Workflow
 
 To maintain a clean and trackable commit history, this project follows specific naming conventions for branches and commit messages.
