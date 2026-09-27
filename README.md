@@ -1,8 +1,14 @@
-# tasks-manager-in-C
+# Tasks manager in C
 
 ## Le projet
 
 Ceci est un projet étudiant (non universitaire) de deux camarades développeurs qui souhaitent développer leurs compétences en C (mais aussi d'autres compétences annexes expliquées plus loin). Le principe est simple : faire un task manager (une sorte de todo list) en C, sans affichage graphique.
+
+## L'équipe
+
+Sur ce projet, nous sommes deux personnes à collaborer : 
+* [Gauthier](https://github.com/gboissel)
+* [Nolhan](https://github.com/L0n4H)
 
 ## Developer Guidelines: Git & Workflow
 
