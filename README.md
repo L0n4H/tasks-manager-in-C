@@ -10,6 +10,11 @@ Sur ce projet, nous sommes deux personnes à collaborer :
 * [Gauthier](https://github.com/gboissel)
 * [Nolhan](https://github.com/L0n4H)
 
+## Les compétences
+* Langage C 
+* CI/CD
+* GitHub Workflow
+
 ## Developer Guidelines: Git & Workflow
 
 To maintain a clean and trackable commit history, this project follows specific naming conventions for branches and commit messages.
